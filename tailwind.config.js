@@ -6,3 +6,11 @@ module.exports = {
     },
     plugins: [],
   }
+  
+ module.exports = {
+    theme: {
+      fontFamily: {
+        'bebas-nenu': ['Bebas Nenu', 'sans-serif'],
+      }
+    }
+  }
